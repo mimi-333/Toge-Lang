@@ -1,0 +1,20 @@
+textarea{
+    display:inline-block;
+    width:40vw;
+    height:35vh;
+    margin-left:auto;
+    margin-right:auto;
+}
+#code{
+    display:block;
+    width:90vw;
+    height:35vh;
+}
+button{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:10vw;
+    height:10vh;
+    font-size:2em;
+}
